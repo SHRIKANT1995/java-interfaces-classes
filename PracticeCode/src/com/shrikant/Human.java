@@ -9,7 +9,7 @@ public class Human implements Speices {
 
     @Override
     public void nonliving() {
-        System.out.println("LIVING");
+        System.out.println("LIVING Human Being ");
 
     }
 
