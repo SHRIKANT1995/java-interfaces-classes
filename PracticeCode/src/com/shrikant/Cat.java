@@ -21,7 +21,7 @@ public class Cat implements Speices {
 
     @Override
     public void reptile() {
-        System.out.println("No");
+        System.out.println("nahhhh");
 
     }
 }
